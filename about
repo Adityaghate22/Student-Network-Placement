@@ -1,0 +1,95 @@
+<html xmlns="http://www.thymeleaf.org">
+  <head>
+	    <title>About</title>
+	    <link rel="stylesheet" th:href="@{/css/footer.css}">
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	</head>
+  <body>  
+    <div>
+      <nav class="navbar navbar-expand-sm bg-dark p-4">
+        <a class="navbar-brand" href="home">Student Placement Network</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav nav-pills mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="about">About us</a>
+            </li>      
+            <li class="nav-item">
+              <a class="nav-link" href="contact">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="create-profile">Create Profile</a>
+            </li>
+          </ul>          
+            <ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+              <a class="nav-link" href="logout">Logout</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div>
+      <h1>About us</h1>
+      <p>Welcome to Your Organization, where innovation meets excellence. Since our founding in 2024, we have been on a journey to redefine the IT Sector. Our commitment to teamwork, integrity, and customer satisfaction drives everything we do.</p>
+
+      <p>We believe in creating a positive impact on the technology community by providing accessible and innovative solutions. Our team of dedicated professionals, led by visionary leaders, is passionate about promoting digital inclusion. Through cutting-edge technology and collaborative partnerships, we aim to empower individuals and organizations to thrive in the digital age.</p>
+    </div>
+    <footer>
+		<p>Copyright  © 2023 : Student Placement Network |<br>
+      developed by PG-DAC(group-1)</p>
+	</footer>
+  </body>
+</html><html xmlns="http://www.thymeleaf.org">
+  <head>
+	    <title>About</title>
+	    <link rel="stylesheet" th:href="@{/css/footer.css}">
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	</head>
+  <body>  
+    <div>
+      <nav class="navbar navbar-expand-sm bg-dark p-4">
+        <a class="navbar-brand" href="home">Student Placement Network</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav nav-pills mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="about">About us</a>
+            </li>      
+            <li class="nav-item">
+              <a class="nav-link" href="contact">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="create-profile">Create Profile</a>
+            </li>
+          </ul>          
+            <ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+              <a class="nav-link" href="logout">Logout</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div>
+      <h1>About us</h1>
+      <p>Welcome to Your Organization, where innovation meets excellence. Since our founding in 2024, we have been on a journey to redefine the IT Sector. Our commitment to teamwork, integrity, and customer satisfaction drives everything we do.</p>
+
+      <p>We believe in creating a positive impact on the technology community by providing accessible and innovative solutions. Our team of dedicated professionals, led by visionary leaders, is passionate about promoting digital inclusion. Through cutting-edge technology and collaborative partnerships, we aim to empower individuals and organizations to thrive in the digital age.</p>
+    </div>
+    <footer>
+		<p>Copyright  © 2023 : Student Placement Network |<br>
+      developed by PG-DAC(group-1)</p>
+	</footer>
+  </body>
+</html>
